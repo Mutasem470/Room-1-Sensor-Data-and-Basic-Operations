@@ -1,3 +1,4 @@
+This code adds up all the temperature values and divides by the number of readings to find the average 
 # Room-1-Sensor-Data-and-Basic-Operations 
 temperatures = [23.5, 25.0, 22.0, 26.5, 24.5]
 # Calculate the sum of temperatures
